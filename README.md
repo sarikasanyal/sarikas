@@ -9,6 +9,8 @@
 link to my site for data viz: https://sarikasanyal.github.io/sarikas/
 
 # About Me
+<img src="https://user-images.githubusercontent.com/73456826/97813372-bc301e00-1c55-11eb-98b3-3d274d7123fd.JPG" alt="drawing" width="150"/>
+
 Hi! I'm Sarika (she/her/hers), a second year Master of Arts Management student at CMU currently enrolled in Telling Stories with Data. My path within the MAM program is centered around public art, community development and philanthropy. Before arriving in Pittsburgh I lived in LA for 8 years where I worked in visual arts oriented organizations working on exhibition management, education and artist development. 
 
 # What I hope to learn
