@@ -1,3 +1,3 @@
 # sarikas
 
-link to my site: https://sarikasanyal.github.io/sarikas/
+link to my site for data viz: https://sarikasanyal.github.io/sarikas/
