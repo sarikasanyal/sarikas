@@ -1,9 +1,9 @@
 # Online Portfolio
-[1. Final Project]
+1. Final Project
 
-[2. Workbook Excercises]
+2. Workbook Excercises
 
-[3. Critiques & Redesigns]
+3. Critiques & Redesigns
 
 # sarikas
 link to my site for data viz: https://sarikasanyal.github.io/sarikas/
