@@ -1,15 +1,15 @@
 # Data Viz Workshop: OECD "General Government Debt", 1995 - 2019
 
-## Part 1 - Government Debt Bar Chart
+## Part 1 - Government Debt: Bar Chart
 
 <iframe src="https://data.oecd.org/chart/69EJ" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/69EJ" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
-## Part 2 - Grid of Lines Chart
+## Part 2 - Government Debt: Grid of Lines Chart
 This version uses the sparklines layout as a reference to visualize all different countries in one image.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4280884"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Part 3 - Animated Scatter Plot: Third Data Visualization
+## Part 3 - Government Debt: Animated Scatter Plot (Third Data Visualization)
 <div class="flourish-embed flourish-scatter" data-src="visualisation/4281421"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Part 4 - Different Methods of Visualization
@@ -18,4 +18,4 @@ In this exercise, each visualization built upon one another to create more in de
 
 The final data visualization (scatter plot with time slider) goes far more in depth into not only what this ratio looks like per country but what it looks like holistically. In this animated visualization we see a different trend than the line chart. This new version tells us that the ratio is actually increasing at high rates, we see most of the bubbles going up. The animation in the bubbles is done so that the label for a country shows up on the bubble once it crosses a certain value, indicating that it is continuing to increase into values that could be problematic for financial sustainability. Using this method also highlights outliers almost immediately without having to add too much color which could be distracting - we just want to focus on trends here. We see how Japan continues on an upwards trend over time. This particular visualization gives a better comprehensive interpretation of debt ratios in relation to time. 
 
-[Main Page](https://sarikasanyal.github.io/sarikas/)
+[Go Back to Main Page](https://sarikasanyal.github.io/sarikas/)
