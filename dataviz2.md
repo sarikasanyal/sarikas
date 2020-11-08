@@ -9,7 +9,7 @@ This version uses the sparklines layout as a reference to visualize all differen
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4280884"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Part 3 - Animated Scatter Plot: Third Data Visualizations
+## Part 3 - Animated Scatter Plot: Third Data Visualization
 <div class="flourish-embed flourish-scatter" data-src="visualisation/4281421"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Part 4 - Different Methods of Visualization
