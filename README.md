@@ -1,5 +1,5 @@
 # sarikas
-link to my site for data viz: https://sarikasanyal.github.io/sarikas/
+[My DataViz Site]:(https://sarikasanyal.github.io/sarikas/)
 
 # Online Portfolio
 
