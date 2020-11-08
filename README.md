@@ -7,7 +7,7 @@
 
 4. [Data Visualization Workshops](/dataviz2.md)
 
-5. [Working with Tabluea](/tableau1.md)
+5. [Working with Tableau](/tableau1.md)
 
 # sarikas
 link to my site for data viz: https://sarikasanyal.github.io/sarikas/
