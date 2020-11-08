@@ -5,6 +5,7 @@ Original Data from OECD
 <iframe src="https://data.oecd.org/chart/69EJ" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/69EJ" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
 Revised Visualization from Flourish
+This version uses the sparklines layout as a reference to visualize all different countries in one image.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4280884"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
