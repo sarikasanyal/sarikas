@@ -5,6 +5,8 @@
 
 3. Critiques & Redesigns
 
+4. Data Visualization Workshops
+
 # sarikas
 link to my site for data viz: https://sarikasanyal.github.io/sarikas/
 
