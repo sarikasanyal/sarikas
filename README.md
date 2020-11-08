@@ -8,7 +8,7 @@
 
 2. Critiques & Redesigns
 
-3. [Data Visualization Workshops](/dataviz2.md)
+3. [Data Visualization Workshop: Crafting For Clarity](/dataviz2.md)
 
 4. [Working with Tableau](/tableau1.md)
 
