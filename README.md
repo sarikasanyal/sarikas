@@ -5,7 +5,7 @@
 
 3. Critiques & Redesigns
 
-4. Data Visualization Workshops
+4. [Data Visualization Workshops](/dataviz2.md)
 
 # sarikas
 link to my site for data viz: https://sarikasanyal.github.io/sarikas/
