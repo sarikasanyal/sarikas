@@ -17,4 +17,4 @@ In this excercise, each visualization built upon one another to create more inde
 
 The final data visualization goes far more in depth into not only what this ratio looks like per country but what it looks like holistically. In this animated visualization we see a different trend than the line chart. This new version tells us that the ratio is actually increasing at high rates, we see most of the bubbles going up. The animation in the bubbles is done so that the label for a country shows up on the bubble once it crosses a certain value, indicating that it is continuing to increase into values that could be problematic for financial sustainability. Using this method also highlights outliers almost immediately without having to add too much color which could be distracting - we just want to focus on trends here. We see how Japan continues on an upwards trend over time. This particular visualization gives a better comprehensive look at debt ratios. 
 
-[Main Page](/README.md)
+[Main Page](https://sarikasanyal.github.io/sarikas/)
