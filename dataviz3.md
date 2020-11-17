@@ -1,4 +1,4 @@
-# Data Critique & Redesign: [Los Angeles Artist Census](https://https://losangelesartistcensus.com/imgs/LA%20Artist%20Census%20Quick%20REPORT.jpg) 
+# Data Critique & Redesign: [Los Angeles Artist Census](https://losangelesartistcensus.com/imgs/LA%20Artist%20Census%20Quick%20REPORT.jpg) 
 
 ## Part 1 
 
