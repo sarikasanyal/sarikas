@@ -6,7 +6,7 @@
 
 1. Workbook Excercises
 
-2. Critiques & Redesigns
+2. [Critique & Redesign](/dataviz3.md)
 
 3. [Data Visualization Workshop: Crafting For Clarity](/dataviz2.md)
 
