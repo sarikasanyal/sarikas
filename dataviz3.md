@@ -22,21 +22,27 @@ My final wireframe:
 <br>
 <img src="./TSWD Assignment_wireframe.jpg" width="500" height="250">
 
-Can you tell me what you think this is?
-  
-  Sangita - Where the median household income stands for LA based artists
-  
-  Sunny- An income distribution graph that shows the skew. The title clearly calls out the intended message. But the viz could be tweaked a little bit to mirror that message as suggested in the below comments.
+### Feedback
 
-Can you describe to me what this is telling you? Is there anything you find surprising or confusing?
+#### Can you tell me what you think this is?
   
-  Sangita - That lower income ranges occupy/ have more share of the population 
-  - Curious to know differentiating factor between a 210k artist vs a 65k artist. Is it their type of work? The way they're selling their         work... etc. Maybe define that in the title (ie. Majority of LA based painters/photographers/designers, etc.)
-  -  The color coding sort of throws me off. I think it would be less confusing if it were one color. With the way it's colored now, you're        calling out the fact that 210k is a lot of money and 65k isn't - but for some people 65k is significant. That's why if it was all in one      color, it doesn't seem as biased 
+  Sangita 
+    - Where the median household income stands for LA based artists
   
-  Sunny - The rainbow color grid is confusing .Red denotes bad and should be on the extreme left. Also, what is the unit here for each bar segment? As in what does the width of the bar represent? Percentages/Population? Make that clear. Also, when was this data collected? Is this the average monthly income/ Yearly income? Someone who does not have an idea of income ranges in LA could be confused by this.
+  Sunny
+    - An income distribution graph that shows the skew. The title clearly calls out the intended message. But the viz could be tweaked a little bit to mirror that message as suggested in the below comments.
 
-Who do you think is the intended audience for this?
+#### Can you describe to me what this is telling you? Is there anything you find surprising or confusing?
+  
+  Sangita 
+    - That lower income ranges occupy/ have more share of the population 
+    - Curious to know differentiating factor between a 210k artist vs a 65k artist. Is it their type of work? The way they're selling their         work... etc. Maybe define that in the title (ie. Majority of LA based painters/photographers/designers, etc.)
+    -  The color coding sort of throws me off. I think it would be less confusing if it were one color. With the way it's colored now, you're        calling out the fact that 210k is a lot of money and 65k isn't - but for some people 65k is significant. That's why if it was all in one color, it doesn't seem as biased 
+  
+  Sunny 
+    - The rainbow color grid is confusing .Red denotes bad and should be on the extreme left. Also, what is the unit here for each bar segment? As in what does the width of the bar represent? Percentages/Population? Make that clear. Also, when was this data collected? Is this the average monthly income/ Yearly income? Someone who does not have an idea of income ranges in LA could be confused by this.
+
+#### Who do you think is the intended audience for this?
 
 Sangita 
   -  artists and galleries that work directly with artists, artist management/agents
@@ -44,7 +50,7 @@ Sangita
 Sunny 
   - LA Based artists, artist communities, galleries who work with artists, etc.
 
-Is there anything you would change or do differently?
+#### Is there anything you would change or do differently?
   
 Sangita 
   - Agree with Sunny's comment regarding stacking the chart vertically. It's easier to digest. 
