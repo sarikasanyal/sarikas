@@ -18,7 +18,7 @@ This chart is trying to show that income ranges as an artist in LA is below the 
 
 From here, I noted keywords such as “income ranges”, “comparing”, “median income”, “gap between” which directly led to my next step of brainstorming chart types. The short list I came up with was a stacked bar, a treemap or a unit map. After attempting to sketch some of these out, I landed on the stacked bar chart. I used feedback from a couple of people who have very different backgrounds and experiences with data viz so that I could understand some of my own biases or assumptions which may be embedded into my redesign. The main critique was to rework the color gradient, shifting the orientation of the stacked bar and clarifying/simplifying the labeling. There was additional feedback surrounding adding more context to where these numbers came from, unfortunately, the original data source is private so I didn’t have access to this. Detailed feedback is below the wireframe solutions.
 
-My final wireframe:
+### My final wireframe:
 <br>
 <img src="./TSWD Assignment_wireframe.jpg" width="500" height="250">
 
@@ -27,20 +27,25 @@ My final wireframe:
 #### Can you tell me what you think this is?
   
   Sangita 
-    - Where the median household income stands for LA based artists
+      
+   - Where the median household income stands for LA based artists
   
   Sunny
-    - An income distribution graph that shows the skew. The title clearly calls out the intended message. But the viz could be tweaked a little bit to mirror that message as suggested in the below comments.
+      
+   - An income distribution graph that shows the skew. The title clearly calls out the intended message. But the viz could be tweaked a little bit to mirror that message as suggested in the below comments.
 
 #### Can you describe to me what this is telling you? Is there anything you find surprising or confusing?
   
   Sangita 
-    - That lower income ranges occupy/ have more share of the population 
-    - Curious to know differentiating factor between a 210k artist vs a 65k artist. Is it their type of work? The way they're selling their         work... etc. Maybe define that in the title (ie. Majority of LA based painters/photographers/designers, etc.)
-    -  The color coding sort of throws me off. I think it would be less confusing if it were one color. With the way it's colored now, you're        calling out the fact that 210k is a lot of money and 65k isn't - but for some people 65k is significant. That's why if it was all in one color, it doesn't seem as biased 
+    
+   - That lower income ranges occupy/ have more share of the population 
+    
+   - Curious to know differentiating factor between a 210k artist vs a 65k artist. Is it their type of work? The way they're selling their         work... etc. Maybe define that in the title (ie. Majority of LA based painters/photographers/designers, etc.)
+   -  The color coding sort of throws me off. I think it would be less confusing if it were one color. With the way it's colored now, you're        calling out the fact that 210k is a lot of money and 65k isn't - but for some people 65k is significant. That's why if it was all in one color, it doesn't seem as biased 
   
   Sunny 
-    - The rainbow color grid is confusing .Red denotes bad and should be on the extreme left. Also, what is the unit here for each bar segment? As in what does the width of the bar represent? Percentages/Population? Make that clear. Also, when was this data collected? Is this the average monthly income/ Yearly income? Someone who does not have an idea of income ranges in LA could be confused by this.
+    
+   - The rainbow color grid is confusing .Red denotes bad and should be on the extreme left. Also, what is the unit here for each bar segment? As in what does the width of the bar represent? Percentages/Population? Make that clear. Also, when was this data collected? Is this the average monthly income/ Yearly income? Someone who does not have an idea of income ranges in LA could be confused by this.
 
 #### Who do you think is the intended audience for this?
 
