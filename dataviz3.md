@@ -23,26 +23,36 @@ My final wireframe:
 <img src="./TSWD Assignment_wireframe.jpg" width="500" height="250">
 
 Can you tell me what you think this is?
+  
   Sangita - Where the median household income stands for LA based artists
+  
   Sunny- An income distribution graph that shows the skew. The title clearly calls out the intended message. But the viz could be tweaked a little bit to mirror that message as suggested in the below comments.
 
 Can you describe to me what this is telling you? Is there anything you find surprising or confusing?
+  
   Sangita - That lower income ranges occupy/ have more share of the population 
-  Curious to know differentiating factor between a 210k artist vs a 65k artist. Is it their type of work? The way they're selling their         work... etc. Maybe define that in the title (ie. Majority of LA based painters/photographers/designers, etc.)
-  The color coding sort of throws me off. I think it would be less confusing if it were one color. With the way it's colored now, you're        calling out the fact that 210k is a lot of money and 65k isn't - but for some people 65k is significant. That's why if it was all in one       color, it doesn't seem as biased 
+  - Curious to know differentiating factor between a 210k artist vs a 65k artist. Is it their type of work? The way they're selling their         work... etc. Maybe define that in the title (ie. Majority of LA based painters/photographers/designers, etc.)
+  -  The color coding sort of throws me off. I think it would be less confusing if it were one color. With the way it's colored now, you're        calling out the fact that 210k is a lot of money and 65k isn't - but for some people 65k is significant. That's why if it was all in one      color, it doesn't seem as biased 
+  
   Sunny - The rainbow color grid is confusing .Red denotes bad and should be on the extreme left. Also, what is the unit here for each bar segment? As in what does the width of the bar represent? Percentages/Population? Make that clear. Also, when was this data collected? Is this the average monthly income/ Yearly income? Someone who does not have an idea of income ranges in LA could be confused by this.
 
 Who do you think is the intended audience for this?
-  Sangita -  artists and galleries that work directly with artists, artist management/agents
+
+Sangita 
+  -  artists and galleries that work directly with artists, artist management/agents
   - I could see a world where a Glassdoor type of site or websites that host artist work use this as well
-  Sunny - LA Based artists, artist communities, galleries who work with artists, etc.
+Sunny 
+  - LA Based artists, artist communities, galleries who work with artists, etc.
 
 Is there anything you would change or do differently?
-  Sangita - Agree with Sunny's comment regarding stacking the chart vertically. It's easier to digest. 
-  Personally, I'd be curious to know what type of institution these artists are connected to that their main source of income is coming from. ie. are the artists that are in the 210k range at a private gallery vs. an artist on the lower end selling their art on an independent site (etsy, their own website, etc.)
+  
+Sangita 
+  - Agree with Sunny's comment regarding stacking the chart vertically. It's easier to digest. 
+  - Personally, I'd be curious to know what type of institution these artists are connected to that their main source of income is coming from. ie. are the artists that are in the 210k range at a private gallery vs. an artist on the lower end selling their art on an independent site (etsy, their own website, etc.)
  
-Sunny - Yes, I would put the stacked bar chart vertically, so that I can read the percentages on the left side of the stacked bar and the   income labels close to each of the bar’s edges on the right side. Stacking it vertically and having percentages to the left side would also let the user look at the viz and figure out the 76%, 46% statistics given in the text above the original viz.
-  Also, if the aim is to draw attention to values below the median, then I would color each of the bars below the median in shades of red. Red signifies bad and captures the reader’s attention. So dark red would be used for <10k and the shades of red can be made lighter as income increases. Values beyond the median could be greyed out or given a color that doesn’t grab the attention.
+Sunny 
+  - Yes, I would put the stacked bar chart vertically, so that I can read the percentages on the left side of the stacked bar and the   income labels close to each of the bar’s edges on the right side. Stacking it vertically and having percentages to the left side would also let the user look at the viz and figure out the 76%, 46% statistics given in the text above the original viz.
+  - Also, if the aim is to draw attention to values below the median, then I would color each of the bars below the median in shades of red. Red signifies bad and captures the reader’s attention. So dark red would be used for <10k and the shades of red can be made lighter as income increases. Values beyond the median could be greyed out or given a color that doesn’t grab the attention.
 
 
 A preliminary sketch/experimenting with chart types: <br>
