@@ -5,8 +5,8 @@
 
 ## Part 2
 
-<img src="https://github.com/sarikasanyal/sarikas/blob/main/TSWD%20Assignment_wireframe.jpg" alt="drawing" width="150"/>
+<img src="./TSWD Assignment_wireframe.jpg">
 
-<img src="https://github.com/sarikasanyal/sarikas/blob/main/TSWD%20Sketch.jpg" alt="drawing" width="150"/>
+<img src="./TSWD Sketch.jpg">
 
 ## Part 3
