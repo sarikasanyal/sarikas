@@ -7,6 +7,6 @@
 
 <img src="./TSWD Assignment_wireframe.jpg">
 
-<img src="./TSWD Sketch.jpg">
+<img src="./TSWD Sketch.jpg alt="drawing" width="100"/">
 
 ## Part 3
