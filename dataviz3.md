@@ -19,10 +19,11 @@ This chart is trying to show that income ranges as an artist in LA is below the 
 From here, I noted keywords such as “income ranges”, “comparing”, “median income”, “gap between” which directly led to my next step of brainstorming chart types. The short list I came up with was a stacked bar, a treemap or a unit map. After attempting to sketch some of these out, I landed on the stacked bar chart. I used feedback from a couple of people who have very different backgrounds and experiences with data viz so that I could understand some of my own biases or assumptions which may be embedded into my redesign. The main critique was to rework the color gradient, shifting the orientation of the stacked bar and clarifying/simplifying the labeling. There was additional feedback surrounding adding more context to where these numbers came from, unfortunately, the original data source is private so I didn’t have access to this. 
 
 My final wireframe:
-<img src="./TSWD Assignment_wireframe.jpg">
+<br>
+<img src="./TSWD Assignment_wireframe.jpg" width="500" height="250">
 
-A preliminary sketch/experimenting with chart types:
-<img src="./TSWD Sketch.jpg">
+A preliminary sketch/experimenting with chart types: <br>
+<img src="./TSWD Sketch.jpg" width="500" height="500">
 
 ## Part 3
 
