@@ -52,6 +52,7 @@ From here, I noted keywords such as “income ranges”, “comparing”, “med
 Sangita 
   -  artists and galleries that work directly with artists, artist management/agents
   - I could see a world where a Glassdoor type of site or websites that host artist work use this as well
+
 Sunny 
   - LA Based artists, artist communities, galleries who work with artists, etc.
 
