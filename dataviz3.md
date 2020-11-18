@@ -3,8 +3,10 @@
 ## Part 1: Original Data Visualization
 <img src="https://github.com/sarikasanyal/sarikas/blob/main/TSWD_Artist%20Census.png"/>
 
-<img src="TSWD_Artist Census.PNG"/>
-
 ## Part 2
+
+<img src="https://github.com/sarikasanyal/sarikas/blob/main/TSWD%20Assignment_wireframe.jpg"/>
+
+<img src="https://github.com/sarikasanyal/sarikas/blob/main/TSWD%20Sketch.jpg"/>
 
 ## Part 3
