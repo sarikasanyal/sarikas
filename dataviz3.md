@@ -2,7 +2,7 @@
 
 ## Part 1: Original Data Visualization
 
-<"![image](TSWD_Artist Census.PNG)">
+"![image](TSWD_Artist Census.PNG)"
 
 ## Part 2
 
