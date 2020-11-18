@@ -12,6 +12,8 @@
 
 4. [Working with Tableau](/tableau1.md)
 
+5. [Maps in Tableau - Class Activity](/map3.md)
+
 5. Final Project
 
 # About Me
