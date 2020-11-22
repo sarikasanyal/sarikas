@@ -4,15 +4,17 @@
 
 # Online Portfolio
 
-1. Workbook Excercises
+1. [Data Visualization Workshop: Crafting For Clarity](/dataviz2.md)
 
-2. [Critique & Redesign](/dataviz3.md)
+2. [Working with Tableau](/tableau1.md)
 
 3. [Data Visualization Workshop: Crafting For Clarity](/dataviz2.md)
 
-4. [Working with Tableau](/tableau1.md)
+4. [Critique & Redesign](/dataviz3.md)
 
 5. [Maps in Tableau - Class Activity](/map3.md)
+
+6. [Final Project: Part I](/map3.md)
 
 5. Final Project
 
