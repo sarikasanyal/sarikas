@@ -14,7 +14,7 @@
 
 5. [Maps in Tableau - Class Activity](/map3.md)
 
-6. [Final Project: Part I](/map3.md)
+6. [Final Project: Part I](/finalpart1.md)
 
 5. Final Project
 
