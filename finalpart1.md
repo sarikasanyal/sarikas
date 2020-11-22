@@ -1,4 +1,4 @@
-# Final Project Part I: 
+# Final Project Part I
 
 This page includes a high level summary of the final project and the framework surrounding this topic as well as the structure which will outline the final ask. 
 
@@ -31,3 +31,10 @@ This is a dashboard also created by the Americans for the Arts, data gathered po
 
 ### Dataset 3: A map of LAA funded arts organizations in Los Angeles County
 This dataset will contain all zip codes or exact locations of organizations funded by a local arts agency to be able to create a map and visually show the impact these LAA’s create through their funding, the ripple effect of the covid crisis. 
+
+## The Method & Medium
+
+The method that will be used to complete the project is Shorthand to create a seamless and straightforward story using their “scrollytelling” method. This platform will allow for some interaction with the viewer in the way they can scroll from one section to another and clearly see certain contrasts which is important to this story (mainly the financial impacts, the erasure of an entire arts sector). 
+
+In creating this story on shorthand, I will go through a process of tightening up my story arc based on feedback, brainstorming or sketching out different types of charts that create the most impact keeping consistency in mind. This will lead into prototypes with different charts in Flourish and then create the final versions in Tableau. The idea is to create multiple different versions of telling the story and getting feedback from a few people to determine which method would work best for this story and lead viewers to action. 
+
