@@ -10,17 +10,17 @@ The second part of this page goes through the process of the user research and f
 
 ## Research & Feedback
 
-<img src="./TSWD_Final Part II_1.png">
+<img src="./TSWD Final Part II_1.png">
 
-<img src="./TSWD_Final Part II_2.png">
+<img src="./TSWD Final Part II_2.png">
 
-<img src="./TSWD_Final Part II_3.png">
+<img src="./TSWD Final Part II_3.png">
 
-<img src="./TSWD_Final Part II_4.png">
+<img src="./TSWD Final Part II_4.png">
 
-<img src="./TSWD_Final Part II_5.png">
+<img src="./TSWD Final Part II_5.png">
 
-<img src="./TSWD_Final Part II_6.png">
+<img src="./TSWD Final Part II_6.png">
 
 ### Feedback Summary
 
