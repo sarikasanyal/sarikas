@@ -2,7 +2,7 @@
 
 This page includes a link to a the final version of the Shorthand story.
 
-The second part of this page goes through insights and reflection on revisions to the story and the process of this. 
+The second part of this page goes through insights and reflection on revisions to the story and the process of this. The dataset used for this story is also included at the end. 
 
 ## Final Story
 
@@ -17,3 +17,6 @@ During the user research process most of the areas that needed clarification and
 Because of these decisions to revise the visualizations completely and the messaging, the design elements shifted a bit as well. The introduction of sources of revenue for organizations at the beginning helped to guide the audience into the topic, whether you are an expert in the field or not. The decision to keep the visualizations in one part of the story was to allow the audience to physically interact with the data and see it start to get more focused on this area specifically. From here, the design on giving a narrative of the coalition through their own website and their own words. When creating the design for the artist story, I wanted to show this through a map format to give it more context into which areas were served (because this is important to how the county funds each organization) and how the artist was able to stay local but move around to different spaces within the county and reach more people. I originally wanted to create a timeline but this didn’t give much context to the importance of communities and areas served. The intention behind making the ending more text heavy was to give the story a sense of urgency to lead up to the call to action as the audience had time to reflect on the data visualizations from earlier in the story.
 
 Throughout the process, and especially after Part 2 of this, the most significant takeaway was in how different audiences react or engage with different elements of the story. Because this is a field I understand well it was important for me to gain insight from someone who didn’t know these stories as well as I did but to also get the complete opposite from an expert in the work. This allowed me to create a more balanced story with the hopes that anyone could open this and gain some awareness. It was really insightful and surprising to get this feedback because the original version came across very differently than intended which highlighted an obvious observation that different people will have significantly differing takeaways and is something I hope to continue to build on with projects like this. I also really enjoyed being able to stack the visualizations, even though it’s all from the same dataset, to hone in on the story and the value in a variety of visualization formats which can guide audiences in and out of specific parts of the topic. 
+
+## The American for the Arts Dataset 
+[The Economic Impact of Covid on Arts and Culture Sector](The Economic Impact of COVID-19 on Arts and Cultural Sector.xlsx_)
