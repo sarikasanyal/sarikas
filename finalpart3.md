@@ -1,8 +1,12 @@
 # Final Project Part III: Behind the Scenes
 
-This page includes a link to a the final version of the Shorthand story.
+This page includes a link to Part I and Part II of the project and the final version of the Shorthand story.
 
 The second part of this page goes through insights and reflection on revisions to the story and the process of this. The dataset used for this story is also included at the end. 
+
+## [Final Project: Part I](/finalpart1.md)
+
+## [Final Project: Part II](/finalpart2.md)
 
 ## Final Story
 
