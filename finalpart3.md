@@ -24,3 +24,7 @@ Throughout the process, and especially after Part 2 of this, the most significan
 
 ## The American for the Arts Dataset 
 [The Economic Impact of Covid on Arts and Culture Sector](https://github.com/sarikasanyal/sarikas/blob/main/The%20Economic%20Impact%20of%20COVID-19%20on%20Arts%20and%20Cultural%20Sector.xlsx)
+
+## References: See Shorthand Final Version
+
+
