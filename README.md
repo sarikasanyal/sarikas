@@ -18,6 +18,8 @@
 
 5. [Final Project: Part II](/finalpart2.md)
 
+6. [Final Project: Part III Behind the Scenes](/finalpart3.md)
+
 # About Me
 <img src="https://user-images.githubusercontent.com/73456826/97813372-bc301e00-1c55-11eb-98b3-3d274d7123fd.JPG" alt="drawing" width="150"/>
 
